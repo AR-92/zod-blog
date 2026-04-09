@@ -33,4 +33,3 @@ bun.lockb
 
 # Build output
 dist/
-docs/
